@@ -33,11 +33,18 @@ It contains images for crops like:
 Plus Apple, Peach, Squash, Soybean, Blueberry, Cherry, and more.
 
 📥 Dataset Download:
-Download Datase
+Download Datase 📥 **Dataset Download**  
+
+[New Plant Diseases Dataset (Augmented) — Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+
 🎯 Objectives
+
 Develop a user-friendly image upload interface with Streamlit.
+
 Train a Custom CNN model for plant disease classification.
+
 Compare with at least three pretrained models to ensure superior performance.
+
 Deliver a fully functional web app for real-world agricultural use.
 
 🚀 Approach
